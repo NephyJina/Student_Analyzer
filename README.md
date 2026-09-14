@@ -15,6 +15,7 @@ Python, Pandas, Matplotlib, Seaborn
 
 Student_Analyzer/
 │
+
 ├── code.py # Main script
 
 ├── data.csv # Raw input data
