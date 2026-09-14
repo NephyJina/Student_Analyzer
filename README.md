@@ -13,7 +13,7 @@ Python, Pandas, Matplotlib, Seaborn
 
 ## Project Structure
 
-Student_Analyzer/
+Student_Analyzer
 │
 
 ├── code.py # Main script
