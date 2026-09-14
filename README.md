@@ -47,4 +47,4 @@ Building this project helped me practice real pandas workflows — data cleaning
 
 **Nephy**  
 Final-year IT student | Learning Python & Data Analysis  
-[LinkedIn](https://www.linkedin.com/in/nephy-jina-dev)
+LinkedIn-(https://www.linkedin.com/in/nephy-jina-dev)
