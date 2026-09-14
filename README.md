@@ -16,11 +16,17 @@ Python, Pandas, Matplotlib, Seaborn
 Student_Analyzer/
 │
 ├── code.py # Main script
+
 ├── data.csv # Raw input data
+
 ├── cleaned_student_marks.csv # Cleaned dataset (output)
+
 ├── summary.csv # Final summary report (output)
+
 ├── Total Marks of Students.png # Grade distribution chart
+
 ├── Total by Attendance_Pct.png # Attendance vs marks chart
+
 └── README.md
 
 ## Sample Output
