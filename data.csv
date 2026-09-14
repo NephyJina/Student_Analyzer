@@ -1,0 +1,101 @@
+name,subject,mark1,mark2,mark3,total,attendance_pct
+Diya K,Web Development,60,56,53,169,52.7
+Diya A,Web Development,94,36,79,209,46.7
+Arjun R,Data Science,89,28,96,213,55.9
+Pooja M,Data Science,,60,25,167,86.7
+Kavya A,Machine Learning,68,60,44,172,56.8
+Aditya K,Python,73,37,70,180, 91.6%
+Neha S,Python,83,93,40,216,98.5
+Rohan K,Statistics,62,71,98,221,83.8
+Ananya A,Data Science,62,35,54,151,92.7
+Rohan S,Machine Learning,71, 45 ,72,188,64.5
+Vishal A,Web Development,34,46,93,173,85.1
+Kavya M,Machine Learning,59,96,53,208,82.7
+Ananya R,Python,65,76,59,200,
+Sanjay A,DBMS,52,88,75,215,93.7
+Kiran R,DBMS,,56,96,194,74.6
+Sanjay M,Statistics,76,71,53,200,99.9
+Ishaan P,Machine Learning,36,31,39,106,105
+Kavya A,Machine Learning,33,74,73,180,77.8
+Kiran P,DBMS,95,26,absent,160,82.5
+Pooja S,Web Development,68,39,62,169,68.9
+Kiran K,Web Development,58,89,47,194,72.9
+Diya A,DBMS,89,50,44,183,65.6
+Kavya P,Statistics,25,66,87,,46.1
+Priya S,Data Science,32,55,97,184,97.1
+Arjun A,Machine Learning,33,93,41,167,52.1
+Asha P,Data Science,58,92,79,229,98.0
+Pooja A,Web Development,50,64,76,190,99.7
+Priya M,Statistics,,40,56,178,57.4
+Aditya K,Statistics,95,54,53,202,45.4
+Ananya R,Python,110,67,34,130,73.3
+Vishal A,Machine Learning,52,94,41,187,84.8
+Sanjay P,Machine Learning,56,85,77,208,50.2
+Nisha S,Machine Learning,77,84,31,192,82.0
+Diya K,Machine Learning,68,38,56,162, 55.5%
+Pooja M,Data Science,79,48,60,187,70.4
+Arjun M,Statistics,37,31,94,162,91.0
+Arjun R,Data Science,77,87,86,250,56.8
+Rohan K,Data Science,73,25,74,172,59.6
+Kiran S,Machine Learning,96, 87 ,44,227,55.4
+Rahul K,Statistics,94,32,65,191,48.1
+Sanjay M,Statistics,92,45,32,169,97.8
+ Arjun R,Python,33,55,76,164,51.6
+Sanjay R,Statistics,30,35,78,143,81.2
+Sanjay P,DBMS,58,51,65,174,58.1
+Rohan R,Web Development,63,83,65,211,96.1
+Arjun K,Machine Learning,,37,34,168,74.6
+Varun S,Data Science,69,33,56,158,65.3
+Kavya M,Statistics,63,92,26,181,81.7
+Pooja S,Web Development,38,42,58,138,51.3
+Diya A,Statistics,44,59,61,164,
+Vishal A,Web Development,34,46,93,173,85.1
+Ananya K,Web Development,79,60,30,169,45.2
+Ishaan A,DBMS,45,81,95,221,83.8
+Pooja K,Python,34,44,94,172,47.0
+Priya P,Statistics,43,80,41,164,47.3
+Priya K,DBMS,51,56,absent,145,64.5
+Pooja M,Statistics,44,55,45,144,98.7
+Kavya M,Python,47,67,77,191,89.1
+Sneha S,Data Science,38,73,29,140,92.2
+Sneha R,Machine Learning,69,64,54,187,57.3
+Rahul M,DBMS,60,33,60,153,64.3
+Varun M,Web Development,93, 67 ,28,188,51.3
+Vishal R,Statistics,58,29,38,125,77.8
+Priya A,DBMS,80,90,39,209,66.2
+Sanjay R,Python ,30,80,25,135,73.6
+Pooja A,Web Development,50,71,80,201,48.8
+Aditya P,DBMS,40,63,89,192,62.0
+Nisha S,Machine Learning,62,95,41,198,55.6
+Rohan A,Web Development,47,97,63,222,75.1
+Aarav S,DBMS,51,80,66,197,70.6
+Kiran A,Data Science,90,85,46,221,81.2
+Meera P,Web Development,67,36,55,158,82.0
+Sneha R,Data Science,,30,56,114,99.1
+Neha K,Machine Learning,78,98,49,225,84.5
+Rohan M,Machine Learning,56,43,25,124,94.1
+Diya M,Data Science,47,91,84,222,47.8
+Sneha K,Machine Learning,42,84,92,218,99.3
+Neha S,Machine Learning,89,79,95,263,69.5
+Kavya A,Machine Learning,82,58,56,196,91.2
+Vishal P,Machine Learning,55,60,81,,49.3
+Meera R,DBMS,67,65,94,226,49.4
+Ishaan R,Machine Learning,44,52,33,129,67.8
+Aditya P,Machine Learning,78,32,51,161,90.8
+Rohan P,Web Development,27,98,73,198,71.2
+Priya S,Machine Learning,78,93,94,265,105
+Sneha M,Data Science,59,80,87,226,46.6
+Aditya A,Web Development,76,46,84,206,95.6
+Neha P,Python,75,97,28,200,49.6
+Asha P,Data Science,58,92,79,229,98.0
+Rahul M,DBMS,68,73,60,201,86.4
+Nisha S,Python,85,27,94,206,47.9
+Priya R,Web Development,33,30,28,91,
+Rahul K,Statistics,44,55,41,140,71.0
+Diya P,Data Science,84,57,72,213,54.2
+Neha A,Web Development,39,45,64,148,50.9
+Aarav S,Statistics,73,75,50,198,49.2
+,Web Development,63,40,97,200,88.0
+Priya P,Machine Learning,72,33,89,194,80.6
+Aarav M,Machine Learning,38,80,71,189,80.0
+Kiran A,Data Science,80,47,91,218,98.1
